@@ -1,7 +1,7 @@
 
 Full Stack Developer, and Game Developer for Cubus Studios.
-I enjoy creating, engineering, and productivity all combine with logic.
-Learning to reconcile with reason comes before, constructing great things.
+I enjoy creating, engineering, and enhancing productivity through logic.  
+Learning to reconcile the mind comes before the establishment of great creativity.
 
 Here's some projects that I contribute
 - 🔭 Lead Developer of Cubus Studios
